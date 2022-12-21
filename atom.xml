@@ -6,29 +6,118 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-12-20T04:57:32.747Z</updated>
+  <updated>2022-12-21T14:34:39.732Z</updated>
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>融媒体新闻采访第四组</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/2022/12/20/hello-world/"/>
-    <id>http://example.com/2022/12/20/hello-world/</id>
-    <published>2022-12-20T04:57:32.747Z</published>
-    <updated>2022-12-20T04:57:32.747Z</updated>
+    <title>传媒学院荣获冠军，再度捧起传承杯</title>
+    <link href="http://example.com/2022/12/21/%E4%BC%A0%E5%AA%92%E5%AD%A6%E9%99%A2%E8%8D%A3%E8%8E%B7%E5%86%A0%E5%86%9B%EF%BC%8C%E5%86%8D%E5%BA%A6%E6%8D%A7%E8%B5%B7%E4%BC%A0%E6%89%BF%E6%9D%AF/"/>
+    <id>http://example.com/2022/12/21/%E4%BC%A0%E5%AA%92%E5%AD%A6%E9%99%A2%E8%8D%A3%E8%8E%B7%E5%86%A0%E5%86%9B%EF%BC%8C%E5%86%8D%E5%BA%A6%E6%8D%A7%E8%B5%B7%E4%BC%A0%E6%89%BF%E6%9D%AF/</id>
+    <published>2022-12-20T16:00:05.000Z</published>
+    <updated>2022-12-21T14:34:39.732Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>作者：董琪</p><footer><strong>来自</strong><cite>苏州大学</cite></footer></blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11月27日下午，苏州大学2022年校园新生舞蹈大赛总决赛在本部存菊堂举办，来自27个学院的同学们用曼妙的舞姿“舞出传承、舞出坚定”，展现出苏大人的昂扬斗志。比赛过程中，伴随着一曲曲悦耳美妙的音乐，来自不同学院、不同专业的参赛选手，她们身着绚丽多彩的演出服，精神饱满、神采飞扬，伴随着动感的旋律，以整齐的动作、灵动的舞步，在舞台上为观众献上了一台美轮美奂的视觉盛宴。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其中，来自传媒学院的13位同学以明快舒展、富于坚韧的舞姿来完美演绎了女子细腻柔美的情感，携着昆曲的极致之韵，谱就青春的绚烂之歌，表现着对生命、对天地万物的情怀。伴随着清幽的音乐，她们一袭蓝衣，清秀又不失妩媚，动作娴熟而自然。舞蹈动作从轻柔而灵动，宛如一首长诗，娓娓而来，震撼人心。她们表演的舞蹈《姑苏情》以独特的创意、极佳的演绎获得评委们的一致好评，以9.90分取得全场最高分，使得传媒学院再一次捧起了传承杯。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;据悉，《姑苏情》以昆曲为背景音乐，加入了唱词念白，既体现出吴侬软语的水乡风情，又寄托了苏大学子对姑苏城的热爱，对祖国的热爱。参赛队员在接受采访时表示，她们一来到苏州，就被这座城市深深地吸引，所以在创作之初，很快就决定好要以姑苏为主题进行展演排练。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在排练过程中，传媒学院的同学们也经历了诸多的困难与挑战，凌晨两点半的排练大厅，见证了汗水与泪水的重叠，压腿带来的撕裂的疼痛折磨着每一个参赛队员，尽管如此，她们依然咬紧牙关，紧握着同伴的手汲取力量。得知参赛节目与其他节目有重合的部分，所有人一鼓作气将音乐、舞蹈动作进行改动，最终竟达到90%的原创率。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;接受采访的参赛队员表示：“我从来没有这么开心过，大家全部都拧出一股劲，朝着同一个方向进行不断努力，从始至终没有任何一个人想过要放弃，都想的是怎么样才能让我们在比赛时候展现出最好的实力。我觉得这次新生舞蹈大赛将会成为我终生难忘的记忆。”之所以传媒学院可以取得此次比赛第一名的好成绩，除了参赛队员的努力，还离不开高年级学姐们的帮助。22届毕业的学姐在接受采访时表示：“新舞可以说算是我的大学起点，四年来每次遇到困难时，都是它给了我勇气，是我前行下去的精神支柱，也是我人生中永远难忘的回忆。每一届的参赛队员们都很努力，也很重视新舞。当聚光灯打在我们身上的时候，一切努力都得到了回报，一切的付出都是值得的。”</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;镁光灯灭，舞台落幕，但未来的征程同时也从此开启，青春的舞步永不停歇，奋斗的步伐永不停止。在未来，将会有更大的舞台等待同学们去探索，有更远的远方等待同学们去到达。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;blockquote&gt;&lt;p&gt;作者：董琪&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;来自&lt;/strong&gt;&lt;cite&gt;苏州大学&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;n</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>一人，一舞，一姑苏 ——记对孙怡琳同学的人物专访</title>
+    <link href="http://example.com/2022/12/21/%E4%B8%80%E4%BA%BA%EF%BC%8C%E4%B8%80%E8%88%9E%EF%BC%8C%E4%B8%80%E5%A7%91%E8%8B%8F/"/>
+    <id>http://example.com/2022/12/21/%E4%B8%80%E4%BA%BA%EF%BC%8C%E4%B8%80%E8%88%9E%EF%BC%8C%E4%B8%80%E5%A7%91%E8%8B%8F/</id>
+    <published>2022-12-20T16:00:04.000Z</published>
+    <updated>2022-12-21T14:34:35.559Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>作者：李雅琼</p><footer><strong>来自</strong><cite>苏州大学</cite></footer></blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“舞低杨柳楼心月,歌尽桃花扇底风。”又是一年“新舞”时节到，许多热爱舞蹈的新生们主动加入新舞的大家庭，每一位舞者都用自己优美的舞姿，为全校师生们带来了一场场赏心悦目的视觉盛宴。</p><p><img src="https://pic3.zhimg.com/80/v2-d15cb22aa5dcf020e40ad35d8cf7621a_1440w.webp"><img src="https://pic1.zhimg.com/80/v2-ddd3d15424a4b0099f0c5cdd840f14e0_1440w.webp"></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今年，传媒学院的作品《姑苏情》在舞蹈的选题和创作上尤其别出心裁。姑娘们一袭青衣，淡妆浓抹，伴随着悠扬婉转的吴侬软语，那一段段优雅和谐的舞姿蕴含着浓浓的雅致和古韵。一挥衣袖间，仿佛将我们带入江南水乡的温婉之气中，又利用舞姿和唱法上的创新，真正做到了“继承传统，推陈出新”，最后她们也顺利地为传媒学院捧起了象征第一名荣誉的“传承杯”。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;本次比赛中，将传统文化元素融于舞蹈艺术创作的节目不在少数，传媒学院此次的作品的独到之处又在哪呢？为了深入了解《姑苏情》的创作背景以及新生舞者们的排练过程，记者联系到了代表传媒学院参与此次新舞比赛的2022级新闻传播学大类的孙怡琳同学并对其进行问题的相关采访。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;记者（以下简称记）：首先，十分感谢孙怡琳同学能够抽出自己宝贵的时间选择接受我们的采访。我们先来聊一聊这次传媒学院在新生舞蹈大赛上的选题，你可以为我们介绍一下吗？</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;孙怡琳同学（以下简称孙）：好的。这次新舞上我们选择的主题是“曲承昆山韵，舞传姑苏情”（青春心向党，舞动强国梦）。舞蹈动作整体上吸收借鉴了昆曲元素，主要展现了姑苏少女的婀娜多姿，柔情似水。我本人在里面扮演了舞姿翩跹、柔美的姑苏小娘鱼的角色。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;记：着实是非常柔美动人！那这样的选题是否有什么深意和内涵呢？</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;孙：昆曲是中国古老的戏曲声腔，是汉族传统戏曲中最古老的剧种之一，也是中国汉族传统文化艺术，被称为百花园中的一朵“兰花”。这次我们选用它作为主题，一方面是为了与苏州本地的昆曲文化相贴合，让更多来到苏州的年轻人对昆曲这一古老的艺术形式有更加深刻的认知；另一方面，传统文化本身也是“姑苏情”的一部分，我们更要学会传承中华优秀传统文化，并取其精华去其糟粕，用大众喜闻乐见的娱乐方式将优秀文化送入“寻常百姓家”。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;记：通过你的介绍，我们有了更深刻的理解和思考。接下来我们聊聊你自己吧，你当初为什么想要加入新生舞蹈大赛呢？</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;孙：因为我很喜欢跳舞。刚刚进入大学，也想通过新生舞蹈大赛这个平台来展示自己。还有就是我之前并没有接触过古典舞蹈，对这方面还挺感兴趣的，也想借此机会学习了解这个舞种。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;记：确实，这是一个学习的好机会。那在学习的过程中，你有没有遇到什么困难和挫折？最终又是如何克服的呢？</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;孙：有困难。比如之前没有接触过古典舞蹈，所以一开始学习时的动作总有些生硬，不够柔美；在比赛前一周，学姐将动作进行了很大变动，要立即消化记忆新的舞蹈动作，这些都有些困难。教新舞的学姐和同伴们经常帮我矫正动作，通常一小段舞蹈，一个动作一个动作的细抠，让我慢慢的找到了古典舞的感觉。新的动作一遍遍练习，我们最后两周每天练习到凌晨，动作很快就形成肌肉记忆了。有时候在大家的休息时候我还会继续练习。练习结束以后会反复看练习的视频，记住自己动作节奏等问题加以改正。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;记：看来新舞确实可以让人得到成长！聊完困难，我们来说一说轻松的话题，比赛中你有没有什么印象深刻的事情？</p><p><img src="https://pic2.zhimg.com/80/v2-4046aa95235253b52142aa3eed188185_1440w.webp" ><img src="https://pic2.zhimg.com/80/v2-9e38366cf4fa100b72d25bc705573821_1440w.webp" ></p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;孙：非常多！比赛前一天学姐为我们买了蛋糕，大家一起加油打气喊口号。感觉真的是一个很温暖的大家庭，心是凝聚在一起的。而且比赛结束以后，大家都抱在一起感动得哭了，用学姐的话来说，没有新舞的大学生活是不完整的。在新舞练习中，我收获了一群好朋友，也再一次体会到一群人为同一个目标一起拼搏的热血，还收获了很多美好的回忆！</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;采访结束了，但孙怡琳同学对舞蹈的热爱和对目标的执着还深深地留在我的脑海中。新舞比赛或许已经不再是一个单纯的比拼，或许就像它的奖杯——“传承杯”的名字所蕴含的那样，新舞是一代又一代人的传承，是对坚定理想，勤学苦练的坚持；是对优秀传统文化的探索；是对团结合作、互帮互助最生动的诠释，而“新舞精神”也在这一代又一代的传承下逐渐演变为苏大学子心中一个独特的代名词。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;姑苏之美，美在青衣姑娘们的一颦一笑间，美在昆曲艺术的悠扬婉转间。一人，一舞，一姑苏。我们通过一人的视角，得见一舞形成的过程，又借此发现一姑苏的美好。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;&lt;p&gt;作者：李雅琼&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;来自&lt;/strong&gt;&lt;cite&gt;苏州大学&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>传院新舞精神：用青春和汗水书写新答卷</title>
+    <link href="http://example.com/2022/12/21/%E4%BC%A0%E9%99%A2%E6%96%B0%E8%88%9E%E7%B2%BE%E7%A5%9E%EF%BC%9A%E7%94%A8%E9%9D%92%E6%98%A5%E5%92%8C%E6%B1%97%E6%B0%B4%E4%B9%A6%E5%86%99%E6%96%B0%E7%AD%94%E5%8D%B7/"/>
+    <id>http://example.com/2022/12/21/%E4%BC%A0%E9%99%A2%E6%96%B0%E8%88%9E%E7%B2%BE%E7%A5%9E%EF%BC%9A%E7%94%A8%E9%9D%92%E6%98%A5%E5%92%8C%E6%B1%97%E6%B0%B4%E4%B9%A6%E5%86%99%E6%96%B0%E7%AD%94%E5%8D%B7/</id>
+    <published>2022-12-20T16:00:03.000Z</published>
+    <updated>2022-12-21T14:34:38.135Z</updated>
+    
+    <content type="html"><![CDATA[<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022年11月27日，我们期待已久的苏州大学2022年新生舞蹈大赛落下帷幕。苏州大学传媒学院获得9.90分的好成绩，荣获冠军，第五次捧起“传承杯”。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;什么是传院新舞精神？它不是偶然出现的，它是每一级传院新生坚持不懈、努力奋斗、不断探索、共同缔造的结晶。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传院新舞精神的内涵是坚持不懈、努力奋斗。舞台上精彩表现的背后，是所有参与同学们辛勤的排练与付出。聚光灯下，她们将数不清的日夜与练习，化作无错的动作，化作整齐划一的视觉效果，化作舞台上美到令人屏息的精彩演出。从金秋到深冬，无数个日夜，新舞姑娘们排练至深夜。新生舞蹈大赛凝结而成的传院新舞精神，激励每一级新生用汗水和泪水续写辉煌。在新舞中，付出、合作、坚持成为关键词，这些关键词也将影响每一位新舞人的一生。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传院新舞精神的核心是传承。近年来，每年新舞通知一发布，除了学院学生会外，还牵动着许多关心学院新舞比赛的学长学姐们，他们在新生面前戏称自己为“老人”。正是这些“老人”一届届的传承与激励，传媒学院在新舞比赛中的表现始终是最受关注的学院之一，每一届“新舞人”更是对传媒学院的新舞精神作出了自己的注解。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;传院新舞精神的意义在于坚毅。这条路上也并非一帆风顺，同学们难免有遇到挫折之时。在去年的新生舞蹈大赛中，传媒学院最终获得了二等奖。这虽然也是一个不错的成绩，但相比2019年的“传承杯”（2020年未举办新舞），同学们心中都有些许遗憾与不甘。但传院新舞精神不是赢得冠军，而是无论结果都竭尽全力，是一路虽有坎坷但脚步始终坚定。人生不是一定会赢，而是要努力去赢。“新舞人”没有气馁。2022年，22级新生仍然一步一个脚印地努力，用汗水成就了舞台上绚丽夺目的身影。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一些时刻之所以伟大，不仅在于其标注了过去，更在于其启迪着未来。新生舞蹈大赛中沉淀下的精神财富，激励一级级新生将个人融入集体、以个人的努力与坚持推动集体的进步和成功。为什么一代代“新舞人”愿意为新舞奉献青春与汗水？因为他们要让所有人都感受到青年人正砰砰跳动的心脏与奔腾不息的热血。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2022年，又一级传院新生身体力行地传承着“新舞精神”。正因为这种精神的薪火相传，让大家敢于期待传媒学院在来年的新舞舞台上再次闪耀发光、取得佳绩的荣誉时刻。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;2022年11月27日，我们期待已久的苏州大学2022年新生舞蹈大赛落下帷幕。苏州大学传媒学院获得9.90分的好成绩，荣获冠军，第五次捧起“传承杯”。&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>《姑苏情》：一场青年与传统文化的双向奔赴</title>
+    <link href="http://example.com/2022/12/21/%E3%80%8A%E5%A7%91%E8%8B%8F%E6%83%85%E3%80%8B%EF%BC%9A%E4%B8%80%E5%9C%BA%E9%9D%92%E5%B9%B4%E4%B8%8E%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4/"/>
+    <id>http://example.com/2022/12/21/%E3%80%8A%E5%A7%91%E8%8B%8F%E6%83%85%E3%80%8B%EF%BC%9A%E4%B8%80%E5%9C%BA%E9%9D%92%E5%B9%B4%E4%B8%8E%E4%BC%A0%E7%BB%9F%E6%96%87%E5%8C%96%E7%9A%84%E5%8F%8C%E5%90%91%E5%A5%94%E8%B5%B4/</id>
+    <published>2022-12-20T16:00:02.000Z</published>
+    <updated>2022-12-21T14:34:34.199Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>作者：陈晗彦</p><footer><strong>来自</strong><cite>苏州大学</cite></footer></blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;在苏州大学新生舞蹈大赛的舞台上我们看到了这样一群姑娘，一袭青衣，清扫娥眉，绛点朱唇，青丝勾勒佳人面。这是来自传媒学院的团队，她们以优美的舞姿，动人的旋律，别出心裁的服装设计打动了评委的心，又一次代表学院举起了“传承杯”。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;《牡丹亭》《长生殿》《桃花扇》，在苏州大学新生舞蹈大赛的舞台上，传媒学院的同学将缠绵婉转、柔漫悠远的姿态融入舞蹈，将昆曲优美雅致的唱腔曲风和舞蹈跨界融合，领着观众们穿越百年时光，以舞蹈走入姑苏，品味昆韵之美。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;谈及此次她们所表演的曲目《姑苏情》时，同学们都表示特别喜欢这个主题。“感觉将传统文化与舞蹈融合是非常好的尝试，我们在练习的时候不断去琢磨昆曲的唱腔曲调和他们在舞台上的姿态，当我们全身心投入昆韵魅力的时候，我们也变得越来越自信。”一位同学这样告诉记者。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;随后，记者们针对苏州大学的学生们发布了一份问卷。根据我们的问卷调查显示，92%的同学对传媒学院《姑苏情》这一节目评价很高，96%的同学表示舞蹈与传统文化相结合能够有效提高节目观赏性。记者在校园中随机访问了几名同学，他们都表示看过《姑苏情》这一节目，并且希望未来可以看到更多传统文化的身影。问卷结果也显示，91%的同学希望新舞节目可以与传统文化多多结合。调查显示，青年人普遍认同中华文化并且对传统文化保有高度的文化自信，乐于接受新形式新方法，希望能将传统文化用全新的方式传承下去。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;近年来，各地的节目都正在探索如何利用新媒体形式在新时代传播中华传统文化。其中河南卫视《唐宫夜宴》与春晚的舞蹈诗剧《只此青绿》将中华传统文化的魅力与内涵呈现在舞台上，为中华传统文化的传承与发展提供了优秀案例。人们越来越希望传统文化能以大众喜闻乐见的形式“润物无声”地提升社会文化氛围，提高文化自信。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;可以看见，传统文化逐渐摆脱了死板与套路，走入青年们的生活中，激发起他们传承与创新的欲望。有位同学向记者说到：“我了解昆曲是在今年清明奇妙游的一个节目《清茗酬知音》上，当时就感受到昆曲文化与评弹文化的魅力，也让我对姑苏产生了兴趣，来到了苏州大学。这次又以昆曲元素融入舞蹈获得了传承杯，感觉真的是一种奇妙的缘分。”此次《姑苏情》可谓是青年和传统文化的“双向奔赴”。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其实除了传媒学院外，本次新生舞蹈大赛也有很多学院的节目融入了传统文化的元素。如医学院的《唐宫夜宴》展现盛唐风华，材化学院的《遗韵》跨越了历史长河等等。由此可见，青年人正不断探寻文化传承的新方式并深深热爱着中华传统文化。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中华优秀传统文化展现着泱泱大国的文化底蕴，传承着数千年绵延不绝的文化脉络。在互联网高速发展的今天，青年群体显然占据互联网内容生产的绝大部分，他们将传统文化和创新思维相互碰撞，进行文化输出，逐渐成为中国传统文化传播的新生力量和主力军。为此，青年人首先应当增强归属感与认同感，关注、了解传统文化，把创新思维和先进科技融入传统，让传统文化再造活血，焕发生机。此外，在新媒体时代，青年要利用好互联网新媒体等平台，创新传播形式，扩大传播范围，让传统文化走入每个人心中，保持生命力与活力。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;blockquote&gt;&lt;p&gt;作者：陈晗彦&lt;/p&gt;
+&lt;footer&gt;&lt;strong&gt;来自&lt;/strong&gt;&lt;cite&gt;苏州大学&lt;/cite&gt;&lt;/footer&gt;&lt;/blockquote&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;n</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>弘扬新舞精神，新与旧的融合将持续推进</title>
+    <link href="http://example.com/2022/12/21/%E5%BC%98%E6%89%AC%E6%96%B0%E8%88%9E%E7%B2%BE%E7%A5%9E%EF%BC%8C%E6%96%B0%E4%B8%8E%E6%97%A7%E7%9A%84%E8%9E%8D%E5%90%88%E5%B0%86%E6%8C%81%E7%BB%AD%E6%8E%A8%E8%BF%9B/"/>
+    <id>http://example.com/2022/12/21/%E5%BC%98%E6%89%AC%E6%96%B0%E8%88%9E%E7%B2%BE%E7%A5%9E%EF%BC%8C%E6%96%B0%E4%B8%8E%E6%97%A7%E7%9A%84%E8%9E%8D%E5%90%88%E5%B0%86%E6%8C%81%E7%BB%AD%E6%8E%A8%E8%BF%9B/</id>
+    <published>2022-12-20T16:00:01.000Z</published>
+    <updated>2022-12-21T15:06:44.104Z</updated>
+    
+    <content type="html"><![CDATA[<div class="tabs" id="text"><ul class="nav-tabs"><li class="tab active"><button type="button" data-href="#text-1">数据分析</button></li><li class="tab"><button type="button" data-href="#text-2">个人感想</button></li></ul><div class="tab-contents"><div class="tab-item-content active" id="text-1"><p>本次问卷调查共收到有效问卷83份，以下将对问卷内容进行具体分析<br><img src="https://pic2.zhimg.com/80/v2-4e44b507c84c9e154d0c082909f4e429_1440w.webp"><br>由于我们的问卷找了许多同级的同学和校组织里认识的学弟学妹，所以🧥大一、大二的同学占大部分。<br><img src="https://pic2.zhimg.com/80/v2-760fcf6473d9332973bb6bdcdcc78899_1440w.webp"><br>新生舞蹈大赛作为苏州大学的新生传统项目，知道这项比赛的人数占大部分。<br><img src="https://pic2.zhimg.com/80/v2-1648eae6e5ef0b1aecf37345aa1f2d81_1440w.webp"><br>新舞比赛知道的人虽多，但这次比赛在天赐庄校区存菊堂举办，离独墅湖校区较远，再加之疫情防控的原因，前去观看比赛的同学占少数。在这部分同学中，还有一些是通过直播的形式观看的。<br><img src="https://pic1.zhimg.com/80/v2-68d559b30565419510bd5f122920a4ec_1440w.webp"><br>在观看了比赛的同学中，我们向他们单独调查了这个问题。绝大多数同学觉得传院这次的《姑苏情》演出效果非常好，给他们留下了深刻的印象。<br><img src="https://pic1.zhimg.com/80/v2-01fe6e3f5aae9c474847a8c600f9fae0_1440w.webp"><br>今年的新舞节目在《姑苏情》之外还有好几个都与我国的传统文化相结合，比如医学院的《唐宫夜宴》等。而这些节目也大多拿到了好成绩，因此绝大部分同学认为新舞的节目与优秀传统文化相结合会增加节目的观赏性。<br><img src="https://pic4.zhimg.com/80/v2-9dc9aa49d58dda01be4befe0b361d387_1440w.webp"><br>新舞年年办，节目想要出彩需要每个创作团队的巧思。因此大多数同学认为未来新舞的节目需要和优秀传统文化多多融合，进行创新。<br><img src="https://pic4.zhimg.com/80/v2-672f997cc1addc451e885ed308772c5f_1440w.webp"><br>最后一个问题我们请同学们简单概括了一下他们认为的“新舞精神”可以包括什么。最终结果也显而易见，大家认为“新舞精神”是勇往直前、勤学苦练、团结协作、拼搏向上、永不放弃。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div><div class="tab-item-content" id="text-2"><blockquote><p>作者：郁庄文</p><footer><strong>来自</strong><cite>苏州大学</cite></footer></blockquote><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;今年的新生舞蹈大赛在11月27日落下帷幕，传媒学院以一曲翩若惊鸿的《姑苏情》拿到9.9分，摘得桂冠。这次的《姑苏情》是大一的学妹们将舞蹈与昆曲相结合的作品，再加以吊眼、点唇的妆造，学妹们化身一群似从水墨画中走出的凤眼水瞳的小生。独特的造型、优美的舞姿、整齐的队形，给人留下了深刻的印象。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;基于我们发布的问卷调查，我产生了两个思考：一个是新舞节目中新与旧的融合，另一个是我们小小的“新舞精神”。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;新舞比赛年年都会举办，想要做出新意并不是一件易事。近年来，我国推出了许多新旧文化融合的舞蹈节目，比如春晚上的《只此青绿》和河南卫视的《唐宫夜宴》，各学院也在此得到了启发。千百年来，中国人在中华传统文化基本精神的指引下，讲究修身、齐家、治国、平天下。中国舞蹈作为中华优秀传统文化精神的一种具体表达，更能映射出中华优秀传统文化的核心理念和时代特征。习近平总书记更是强调，传承和弘扬中华优秀传统文化，对推进社会主义文化强国建设，提高国家文化软实力具有重要意义。一部好的作品不仅能带来美的视觉享受，同时也能代表时代所推崇的主旋律。好的作品中的艺术加工能让我们感受其独特的创作思维，感知中华传统文化的无限魅力以及现代文明的磅礴发展，提高个人的艺术觉悟，呼吁社会民族意识，从而做好传统文化的弘扬者和继承者。在未来的新舞比赛中，我觉得将中国优秀传统文化与当今时代特色相融合的节目会一种趋势，各种各样的节目会如雨后春笋般涌现。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;其次就是我们的“新舞精神”。虽说一场微不足道的校级比赛应该谈不上什么精神，但是通过我们这次的对传院新舞表演同学的采访，我觉得她们每个人赛前为比赛的付出也能让我们浅谈一下“新舞精神”。在赛前快两个月的练习时间中，一次又一次的拉伸，一次又一次的重来，一次又一次见到学校凌晨两点的月亮，新舞队员们为这场比赛付出了太多。但是她们说，只要看到周围的队友还与我站在一起，只要我想坐下时队友就会一把撑住我，这些辛苦、劳累和想放弃的念头就全部不见了。新舞是一场团队赛，需要个人的坚持努力也需要所有人的团结协作。传媒学院这次能拿到冠军，离不开每个新舞队员、每一位提供指导的学长学姐和老师们。新舞对有些同学来说可以算是整个大学生活的起点，她们由这场比赛一直汲取着支撑自己不断前行的力量。因此，我认为我们萌芽般的“新舞精神”可以概括为勇往直前、勤学苦练、团结协作、拼搏向上、永不放弃。</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;新舞是一种传承，将会继续举办下去。而我们的“新舞精神”也将依托着新舞这个平台从一棵小苗长成一棵大树，更会结出更多融入了优秀传统文化的节目果实。我们将会用我们的青春为祖国的传统文化注入崭新的活力，向璀璨的中华文化献上我们的绵薄之力。</p><button type="button" class="tab-to-top" aria-label="scroll to top"><i class="fas fa-arrow-up"></i></button></div></div></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tabs&quot; id=&quot;text&quot;&gt;&lt;ul class=&quot;nav-tabs&quot;&gt;&lt;li class=&quot;tab active&quot;&gt;&lt;button type=&quot;button&quot; data-href=&quot;#text-1&quot;&gt;数据分析&lt;/button&gt;&lt;/li&gt;&lt;li clas</summary>
       
     
     
